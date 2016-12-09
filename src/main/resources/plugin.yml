@@ -1,0 +1,7 @@
+name: HyverseRunes
+version: 1.0
+main: net.hyverse.main.Main
+author: MonkeyDev
+commands:
+  runes:
+    description: Give a player a rune!
